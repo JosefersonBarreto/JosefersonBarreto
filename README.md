@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JosefersonBarreto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 olá ,sou o  @JosefersonBarreto 
+- 🌱 atualmente estou cursando o oitavo período em Estatística 
+- 💞️ Estou procurando colaborar em com alguns matérias para estudo
+- 📫 como me encontrar :  abaixo estão algumas redes sociais onde é possível entrar em contato comigo 
 
 <!---
 JosefersonBarreto/JosefersonBarreto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 
   <a href="https://www.instagram.com/josefersonbarreto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joseferson-barreto-539b95208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+<a href="https://wa.me/+5581981397467" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
