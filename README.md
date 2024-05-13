@@ -1,6 +1,5 @@
 - 👋 olá ,sou o  @JosefersonBarreto 
-- 🌱 atualmente estou cursando o oitavo período em Estatística 
-- 💞️ Estou procurando colaborar em com alguns matérias para estudo
+- 📚 Bacharel  em Estatística pela Universidade Estadual da Paraíba 
 - 📫 como me encontrar :  abaixo estão algumas redes sociais onde é possível entrar em contato comigo 
 
 <!---
