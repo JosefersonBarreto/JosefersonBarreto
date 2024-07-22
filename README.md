@@ -1,4 +1,5 @@
-- 👋 olá ,sou o  @JosefersonBarreto 
+- 👋 olá ,sou o  @JosefersonBarreto
+- Cientista de Dados
 - 📚 Bacharel  em Estatística pela Universidade Estadual da Paraíba 
 - 📫 como me encontrar :  abaixo estão algumas redes sociais onde é possível entrar em contato comigo 
 
